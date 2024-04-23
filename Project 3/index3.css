@@ -1,0 +1,318 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.navbar {
+    display: flex;
+    width: 100%;
+    padding: 20px 0px;
+    top: 0;
+    right: 0;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(236, 226, 226, 0.753);
+    backdrop-filter: blur(8px);
+    box-shadow: rgba(0, 0, 0, 0.457) 0px 10px 20px;
+}
+
+.caption {
+    display: flex;
+
+    width: 15%;
+    justify-content: space space-evenly;
+    align-items: center;
+    gap: 10px;
+    padding-left: 10px;
+
+}
+
+.image {
+    height: 40px;
+    width: 20%;
+}
+
+.navbar span {
+    font-size: 160%;
+}
+
+
+.navbar ul {
+    display: flex;
+    padding-right: 100px;
+
+
+}
+
+.navbar li {
+    list-style: none;
+
+
+}
+
+.navbar li a {
+    text-decoration: none;
+    padding: 5px 15px;
+    color: black;
+}
+
+.navbar li a:hover {
+    color: wheat;
+    background-color:#2d2118;
+    border-radius: 10px;
+}
+
+.ulimg {
+    height: 20px;
+    padding: 0px 10px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+
+}
+
+.box1 {
+
+    height: 300px;
+    padding: 40px 20px;
+}
+
+.box1:hover {
+    transform: scale(1.1);
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.box2 {
+    display: flex;
+
+    align-items: center;
+    padding: 70px 30px;
+    width: 100%;
+    justify-content: space-between;
+
+}
+
+.box2 h2 {
+    font-size: 40px;
+}
+
+.box2img {
+    width: 100%;
+    height: 100%;
+}
+
+.h2p {
+    flex-direction: column;
+
+    padding-left: 80px;
+    width: 50%;
+}
+
+.h2p p {
+    font-size: 20px;
+    width: 60%;
+    color: rgb(128, 128, 128);
+    margin-top: -10px;
+}
+
+.h2p h2 {
+    width: 40%;
+
+}
+
+.img1 {
+
+    width: 30rem;
+    height: 20rem;
+    padding-right: 120px;
+}
+
+.appstore {
+    width: 50%;
+
+    padding-top: 20px;
+    justify-content: space-between;
+}
+
+.midbox {
+    display: flex;
+
+    background-color: #2d2118;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 130px;
+}
+
+.midboxpart {
+    width: 22%;
+
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 115px;
+}
+
+.midh1 {
+    flex-direction: column;
+    color: white;
+    font-size: 10px;
+
+
+
+
+}
+
+.midbox h1 {
+
+    width: 60%;
+    padding-left: 90px;
+    font-size: 25px;
+}
+
+.midh1 p {
+    font-size: 15px;
+    justify-content: center;
+    padding-left: 60px;
+    padding-top: -12px;
+    color: rgb(175, 173, 173);
+
+}
+
+.footer {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding-block: 1rm;
+
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+}
+
+
+
+footer h3 {
+    color: rgb(128, 128, 128);
+
+    list-style: none;
+
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    color: gray;
+}
+
+.footer-bottom {
+    color: white;
+
+}
+
+.fa-brands {
+    color: white;
+    padding: 10px;
+}
+
+.fa-brands:hover {
+    color: gray;
+}
+
+.company {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    margin-top: 55px;
+
+}
+
+.contact {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    align-items: start;
+
+}
+
+.legal {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    align-items: start;
+    padding-top: 50px;
+}
+
+.footapp {
+    width: 50%;
+
+    padding-top: 20px;
+    justify-content: space-between;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+padding-top: 50px ;
+padding-bottom: 70px ;
+
+
+
+}
+
+.divh2 {
+    flex-direction: row;
+   
+    margin-left: 50px;
+    margin-right: 850px;
+}
+
+input {
+    width: 50%;
+
+    margin-left: 285px;
+    height: 50px;
+
+}
+
+.row {
+    
+    width: 60%;
+   
+}
+
+.div2 button {
+    height: 55px;
+    background-color: #2d2118;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.div2 button:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.div2{
+    margin-left: -235px;
+    
+}
+
+.div2 ::placeholder{
+    font-size: 20px;
+padding-left: 15px;
+}
+.form p{
+    color: rgba(73, 73, 73, 0.737);
+       
+}

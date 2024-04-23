@@ -1,0 +1,298 @@
+@media screen and (max-width:348px) {
+    body{
+        overflow-x: hidden;
+    }
+    .bg{
+        overflow-x: hidden;
+    }
+    .navbar{
+    
+        width: 100%;
+        
+        padding-top: 5px;
+    }
+    .navbar ul {
+
+      /* visibility: hidden; */
+      display: none;
+       
+    }
+
+    
+    
+    .caption{
+        padding-top: 10px;
+        width: 60%;
+    }
+    .caption>span{
+        
+        margin-left: -3.0rem;
+        font-size:17px;
+        
+       
+    }
+    
+    .image {
+        width: 90%;
+        padding-right: 50px;
+        height: 25px;
+        width: 25px;
+    
+    }
+   .navbar span {
+       width: 50%;
+    }
+
+ .box{
+      display: flex;
+      flex-direction: column;
+    }
+ .row {
+    
+    width: 30%;
+   
+   }
+ .div2{
+    margin-left: -25px;
+    
+  }
+
+ .div2 input{
+    width: 20%;
+    padding-left: 50px;
+    padding-right: 100px;
+    margin-left: 70px;
+    height: 50px;
+
+  }
+  .row{
+   
+    width: 100%;
+  }
+ .div2{
+    width: 100%;
+    
+  }
+ .div2 button {
+   
+    height: 55px;
+    background-color: #2d2118;
+    color: white;
+  font-size: 15px;
+  /* padding-right: 120px; */
+   margin-left: 120px;
+   margin-top: 10px;
+  }
+
+ .div2 ::placeholder{
+   visibility: hidden;
+ }
+
+  .form{
+    
+    width: 90%;
+    margin-bottom: -30px;
+    margin-top: -40px;
+   }
+  .divh2>h2{
+    margin-left: 100px;
+ }
+ .divh2{
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 0px;
+  }
+  .form p{
+    color: rgba(73, 73, 73, 0.737);
+       width: 100%;
+   }
+  .divh2>p{
+ 
+    width: 100%;
+  }
+
+  .midbox{
+    display: flex;
+    flex-direction: column;
+ 
+   }
+   
+   .midh1 {
+    flex-direction: column;
+    color: white;
+    font-size: 10px;
+ }
+
+    .midboxpart {
+        width: 22%;
+
+        align-items: center;
+        padding-top: 20px;
+        padding-left: 25px;
+    }
+
+    .midbox h1 {
+
+        width: 100%;
+        padding-left: 2px;
+    
+        font-size: 25px;
+        margin-left: -30px;
+    }
+
+    .midh1 p {
+        font-size: 15px;
+        justify-content: center;
+        padding-left: 20px;
+        margin-left: -80px;
+        padding-top: -12px;
+        color: rgb(175, 173, 173);
+
+    }
+
+    .box2 {
+    
+        display: flex;
+        margin-left: 20px;
+        align-items: center;
+        padding: 70px 0px;
+        width: 100%;
+        justify-content: space-between;
+
+    }
+
+    .box2 h2 {
+        font-size: 40px;
+        width: 50%;
+        /* margin-right: 20px; */
+    }
+
+    .box2img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .h2p {
+        flex-direction: column;
+        padding-left: 0px;
+        width: auto;
+    }
+
+    .h2p p {
+        font-size: 20px;
+        width: 90%;
+        color: rgb(128, 128, 128);
+        margin-top: -10px;
+    }
+
+    .h2p h2 {
+    
+        font-size: 20px;
+        width: 300px;
+        /* width: 40%; */
+
+    }
+
+    .img1 {
+
+        visibility: hidden;
+    }
+
+    .appstore {
+        width: 90%;
+
+        padding-top: 20px;
+        justify-content: space-between;
+    }
+
+
+    .footer {
+        display: flex;
+        background-color: black;
+        width: 100%;
+        justify-content: space-around;
+        align-items: center;
+        padding-block: 1rm;
+    flex-direction: column;
+        padding-top: 40px;
+        padding-bottom: 40px;
+
+    }
+
+
+
+    footer h3 {
+        color: rgb(128, 128, 128);
+
+        list-style: none;
+
+    }
+
+    footer a {
+        text-decoration: none;
+        color: white;
+    }
+
+    footer a:hover {
+        color: gray;
+    }
+
+    .footer-bottom {
+        color: white;
+
+    }
+
+    .fa-brands {
+        color: white;
+        padding: 10px;
+    }
+
+    .fa-brands:hover {
+        color: gray;
+    }
+
+    .company {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+        margin-top: 35px;
+
+    }
+
+    .contact {
+        display: flex;
+        justify-content: start;
+        flex-direction: column;
+        align-items: start;
+        padding-right: 35px;
+
+    }
+    .legal {
+        display: flex;
+        justify-content: start;
+        flex-direction: column;
+        align-items: start;
+        padding-top: 15px;
+        padding-right: -25px;
+    }
+
+    .footapp {
+        width: 50%;
+
+        padding-top: 20px;
+        justify-content: space-between;
+    }
+
+
+    .footer-bottom{
+        padding-top: 30px;
+        margin-top: 20px;
+    }
+
+    .icon{
+        padding-top: 20px;
+    
+    }
+
+}

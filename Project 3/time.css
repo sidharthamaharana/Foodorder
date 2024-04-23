@@ -1,0 +1,25 @@
+
+        body{
+           background-color: black;
+            
+        }
+        #h2{
+            color: aqua;
+            /* text-align: center; */
+        }
+       
+        table{
+            background-color: rgb(135, 180, 68)
+        }
+
+        h2{
+            color: aqua;
+        }
+
+        #head2{
+            background-color: red;
+        }
+        
+        #externalHead{
+            background-color: yellow;
+        }

@@ -1,0 +1,90 @@
+h1 {
+    text-align: center;
+    color: red;
+
+}
+
+.img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black
+}
+
+.sambit {
+    display: inline-block;
+    margin: 43px;
+    text-align: center;
+}
+
+.sam {
+    border: 1px solid red;
+    color: red;
+    text-align: center;
+    display: inline-block;
+}
+
+p {
+    font-style: oblique;
+    color: azure;
+}
+
+h3 {
+    color: red;
+
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+    color: lightseagreen;
+    text-align: center;
+}
+
+.ricky {
+    color: red;
+    text-align: center;
+    font-size: x-large;
+    border: 1px solid red;
+
+}
+
+.ric {
+    display: inline-block;
+    text-align: center;
+    margin-left: 43%;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.samim {
+    display: inline-block;
+    margin: 42px;
+}
+
+.footer {
+    background-color:red;
+    text-align: center;
+    padding: 10px;
+    margin-top: 80px;
+    border: white ;
+    border-radius: 5px;
+}
+.footer h2{
+    color: black;
+}
+
+.footer p{
+    color: black;
+}

@@ -1,0 +1,162 @@
+h1{
+    color: red;
+   
+    text-align: center;
+    font-style: italic;
+    text-decoration: dotted
+    
+}
+
+.page1{
+    background-color:rgb(245, 226, 202);
+    color: red;
+    text-align: center;
+    
+}
+
+p{
+    color: black;
+   
+}
+
+.img{
+    height: 300px;
+    width: 500px;
+    margin-right: 1200px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.img1{
+    height: 300px;
+    width: 500px;
+    margin-left: 935px;
+    margin-bottom: -300px;
+    margin-top: 170px;
+    border-radius: 10px
+}
+
+.img2{
+    height: 300px;
+    width: 500px;
+    margin-right: 950px;
+    margin-bottom: -300px;
+    margin-top: 100px;
+    border-radius: 10px
+    
+}
+
+
+
+.sumbit{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+    
+}
+
+.sumbit:hover{
+    
+    border-radius: 3px;
+    color: white;
+    background-color: black;
+}
+.para {
+    margin-left: 500px ;
+    margin-top: -300px;
+    color: black;
+    padding-top: 50px;
+    
+}
+
+ul{
+color: black;
+}
+
+.para1{
+    margin-top: 60px;
+    margin-left: -900px;
+
+}
+
+.head{
+    background-color: black;
+    height: 110px;
+   color: red;
+    font-size: 80px;
+    font-style: italic;
+    margin-top: -5px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: -35px;
+
+}
+.head2{
+    font-size: 15px;
+    font-style: italic;
+}
+
+.head3{
+   
+    color: black;
+}
+
+.navbar{
+background-color: red;
+border-radius: 5px;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+   margin: 9px 20px;
+   
+}
+
+.navbar ul{
+    overflow: auto;
+  
+}
+
+.navbar li a{
+    padding: 7px 7px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar li a:hover{
+color: white;
+
+}
+
+.head4{
+    color: red;
+    font-style: italic;
+    margin-left: 500px;
+    margin-bottom: -20px;
+    margin-top: 20px;
+
+}
+
+.para3{
+    margin-left: 500px ;
+   margin-top: 70px;
+    color: black;
+
+}
+
+.footer {
+    background-color:black;
+    text-align: center;
+    padding: 10px;
+    margin-top: 165px;
+    border-radius: 5px;
+   
+}
+
+.footer p{
+    color: red
+}
+.footer h1{
+    color:red;
+}
+
